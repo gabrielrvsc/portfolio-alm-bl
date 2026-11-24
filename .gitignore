@@ -1,0 +1,22 @@
+# R / RStudio / Positron
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rcheck/
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/staging/
+
+# RMarkdown intermediate artifacts
+reports/*_cache/
+reports/*_files/
+
+# OS & Dropbox
+.DS_Store
+Thumbs.db
+desktop.ini
+.dropbox*
